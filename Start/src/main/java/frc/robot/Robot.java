@@ -6,19 +6,7 @@
 /*----------------------------------------------------------------------------*/
 
 /*
-0 - PDP (power distrubution panel)
-1 - Front left drive
-2 - Rear left drive
-3 - Rear Right drive
-4 - Front right drive
-5 - Crawl motor (white wheels at front)
-6 - Intake Left (green wheels)
-7 - Intake Right (green wheels)
-8 - Front lift (motors at bottom rack in back)
-9 - Front lift (motors at bottom rack in back)
-10 - Back lift
-11 - Back lift
-12 - PCM (pnuematic control module)
+
 */
 
 package frc.robot;
